@@ -1,6 +1,6 @@
-# Moved
-
-Moved to https://framagit.org/shu and https://git.wadza.fr/me
+HTTP/3 302 Moved Permanently <br>
+Location: https://framagit.org/shu <br>
+Alt-Svc: h2="https://git.wadza.fr/me"
 
 - [Univerxel](https://framagit.org/univerxel/univerxel): Galaxy down to atom online voxel game
 - [dst](https://git.wadza.fr/me/dst): Docker Status Page
